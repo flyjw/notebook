@@ -1,0 +1,2 @@
+该应用是一个基于HTML页面来构建的Angular应用。通过这个简单的笔记存储应用，我们可以载入并修改简单的笔记，完成展示、创建、修改和删除笔记的功能。
+整体技术选型为Bootstrap+Nodejs+MySql+Angular，使用Bootstrap来搭建HTML页面的基础框架，基于流行的Express.js框架开发，使用Node写一个简单的RESTful服务器，连接MySql数据库，完成阅读、创建、编辑和删除列表中的笔记，前端使用Angular来完成数据的查询与绑定。

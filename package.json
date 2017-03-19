@@ -1,0 +1,16 @@
+{
+  "name": "chapter3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "Zaya",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.9.3",
+    "express": "^4.10.2"
+  },
+  "devDependencies": {
+    "mysql": "^2.13.0",
+    "orm": "^3.2.3"
+  }
+}
